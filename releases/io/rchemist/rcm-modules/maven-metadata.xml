@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.rchemist</groupId>
+  <artifactId>rcm-modules</artifactId>
+  <versioning>
+    <release>0.0.1-CERATALK</release>
+    <versions>
+      <version>0.0.1-CERATALK</version>
+    </versions>
+    <lastUpdated>20220422065545</lastUpdated>
+  </versioning>
+</metadata>
