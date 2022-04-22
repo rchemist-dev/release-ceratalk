@@ -864,12 +864,12 @@
   <distributionManagement>
     <repository>
       <id>release</id>
-      <url>https://github.com/rchemist/release-ceratalk/raw/main/releases</url>
+      <url>https://github.com/rchemist-dev/release-ceratalk/raw/main/releases</url>
     </repository>
 
     <snapshotRepository>
       <id>snapshot</id>
-      <url>https://github.com/rchemist/release-ceratalk/raw/main/snapshots</url>
+      <url>https://github.com/rchemist-dev/release-ceratalk/raw/main/snapshots</url>
     </snapshotRepository>
   </distributionManagement>
 
